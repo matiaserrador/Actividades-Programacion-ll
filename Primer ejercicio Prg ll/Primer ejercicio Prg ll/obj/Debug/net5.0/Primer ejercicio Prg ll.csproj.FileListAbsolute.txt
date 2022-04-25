@@ -1,0 +1,32 @@
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.exe
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.deps.json
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.runtimeconfig.json
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.runtimeconfig.dev.json
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.dll
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\ref\Primer ejercicio Prg ll.dll
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.pdb
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.AssemblyInfo.cs
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.dll
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\ref\Primer ejercicio Prg ll.dll
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.pdb
+C:\Users\Matias\Documents\repositorio main\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.genruntimeconfig.cache
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.exe
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.deps.json
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.runtimeconfig.json
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.runtimeconfig.dev.json
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.dll
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\ref\Primer ejercicio Prg ll.dll
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\bin\Debug\net5.0\Primer ejercicio Prg ll.pdb
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.AssemblyInfo.cs
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.dll
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\ref\Primer ejercicio Prg ll.dll
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.pdb
+C:\Users\Matias\Documents\repositorio main 2do\Primer ejercicio Prg ll\Primer ejercicio Prg ll\obj\Debug\net5.0\Primer ejercicio Prg ll.genruntimeconfig.cache
