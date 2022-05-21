@@ -1,0 +1,11 @@
+C:\Users\Matias\Documents\repositorio main 2do\ProgressBar - Barracuda\ProgressBar - Barracuda\bin\Debug\ProgressBar - Barracuda.exe.config
+C:\Users\Matias\Documents\repositorio main 2do\ProgressBar - Barracuda\ProgressBar - Barracuda\bin\Debug\ProgressBar - Barracuda.exe
+C:\Users\Matias\Documents\repositorio main 2do\ProgressBar - Barracuda\ProgressBar - Barracuda\bin\Debug\ProgressBar - Barracuda.pdb
+C:\Users\Matias\Documents\repositorio main 2do\ProgressBar - Barracuda\ProgressBar - Barracuda\obj\Debug\ProgressBar - Barracuda.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio main 2do\ProgressBar - Barracuda\ProgressBar - Barracuda\obj\Debug\ProgressBar - Barracuda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias\Documents\repositorio main 2do\ProgressBar - Barracuda\ProgressBar - Barracuda\obj\Debug\ProgressBar___Barracuda.Form1.resources
+C:\Users\Matias\Documents\repositorio main 2do\ProgressBar - Barracuda\ProgressBar - Barracuda\obj\Debug\ProgressBar___Barracuda.Properties.Resources.resources
+C:\Users\Matias\Documents\repositorio main 2do\ProgressBar - Barracuda\ProgressBar - Barracuda\obj\Debug\ProgressBar - Barracuda.csproj.GenerateResource.cache
+C:\Users\Matias\Documents\repositorio main 2do\ProgressBar - Barracuda\ProgressBar - Barracuda\obj\Debug\ProgressBar - Barracuda.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio main 2do\ProgressBar - Barracuda\ProgressBar - Barracuda\obj\Debug\ProgressBar - Barracuda.exe
+C:\Users\Matias\Documents\repositorio main 2do\ProgressBar - Barracuda\ProgressBar - Barracuda\obj\Debug\ProgressBar - Barracuda.pdb
