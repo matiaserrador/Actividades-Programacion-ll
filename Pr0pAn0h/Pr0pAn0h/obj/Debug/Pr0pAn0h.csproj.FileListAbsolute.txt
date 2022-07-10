@@ -1,0 +1,14 @@
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\bin\Debug\Pr0pAn0h.exe.config
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\bin\Debug\Pr0pAn0h.exe
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\bin\Debug\Pr0pAn0h.pdb
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\obj\Debug\Pr0pAn0h.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\obj\Debug\Pr0pAn0h.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\obj\Debug\Pr0pAn0h.FormPropano.resources
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\obj\Debug\Pr0pAn0h.Properties.Resources.resources
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\obj\Debug\Pr0pAn0h.csproj.GenerateResource.cache
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\obj\Debug\Pr0pAn0h.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\obj\Debug\Pr0pAn0h.exe
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\obj\Debug\Pr0pAn0h.pdb
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\bin\Debug\Entidades.dll
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\bin\Debug\Entidades.pdb
+C:\Users\Matias\Documents\repositorio main 2do\Pr0pAn0h\Pr0pAn0h\obj\Debug\Pr0pAn0h.csproj.CopyComplete
