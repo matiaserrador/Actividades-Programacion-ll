@@ -1,0 +1,12 @@
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\bin\Debug\net6.0\SanguMarta.Shared.deps.json
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\bin\Debug\net6.0\SanguMarta.Shared.dll
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\bin\Debug\net6.0\SanguMarta.Shared.pdb
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\SanguMarta.Shared.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\SanguMarta.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\SanguMarta.Shared.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\SanguMarta.Shared.AssemblyInfo.cs
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\SanguMarta.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\SanguMarta.Shared.dll
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\refint\SanguMarta.Shared.dll
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\SanguMarta.Shared.pdb
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\ref\SanguMarta.Shared.dll

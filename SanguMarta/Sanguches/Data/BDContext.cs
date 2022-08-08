@@ -1,13 +1,17 @@
-﻿using System;
+﻿using Sanguches.Data.Entidades;
+using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sanguches.Data
+namespace Sanguche.Data
 {
-    public class BDContext
+    public class BDContext : DbContext 
     {
-        //214
+        public DbSet<Sanguchaso> Sanguchasos { get; set; }
+
+        
     }
 }

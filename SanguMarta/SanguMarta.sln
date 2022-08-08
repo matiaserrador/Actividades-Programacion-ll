@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguMarta.Server", "SanguMarta\Server\SanguMarta.Server.csproj", "{4FEC31EB-3575-4706-8966-BB9D4AFB1ADC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SanguMarta.Server", "SanguMarta\Server\SanguMarta.Server.csproj", "{4FEC31EB-3575-4706-8966-BB9D4AFB1ADC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguMarta.Client", "SanguMarta\Client\SanguMarta.Client.csproj", "{937D82DD-B45F-429B-A290-5BFE7C50FB56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SanguMarta.Client", "SanguMarta\Client\SanguMarta.Client.csproj", "{937D82DD-B45F-429B-A290-5BFE7C50FB56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguMarta.Shared", "SanguMarta\Shared\SanguMarta.Shared.csproj", "{7C69B5BF-B115-48A5-8EFA-AF2FD0FD9348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SanguMarta.Shared", "SanguMarta\Shared\SanguMarta.Shared.csproj", "{7C69B5BF-B115-48A5-8EFA-AF2FD0FD9348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanguches", "Sanguches\Sanguches.csproj", "{19B84424-83AD-4AE0-B55B-BED1D413843E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sanguche", "Sanguches\Sanguche.csproj", "{19B84424-83AD-4AE0-B55B-BED1D413843E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

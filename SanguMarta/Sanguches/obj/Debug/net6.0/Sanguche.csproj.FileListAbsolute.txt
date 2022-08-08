@@ -1,0 +1,14 @@
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguche.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguche.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguche.AssemblyInfo.cs
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguche.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\bin\Debug\net6.0\Sanguche.deps.json
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\bin\Debug\net6.0\Sanguche.runtimeconfig.json
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\bin\Debug\net6.0\Sanguche.dll
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\bin\Debug\net6.0\Sanguche.pdb
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguche.dll
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\refint\Sanguche.dll
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguche.pdb
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguche.genruntimeconfig.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\ref\Sanguche.dll
