@@ -9,6 +9,7 @@ namespace Sanguches.Data.Entidades
 {
     public class Sanguchaso
     {
+        //Decorados más los atributos.
         [Required(ErrorMessage = "El Monto a pagar es obligatorio.")]
         [MaxLength(120, ErrorMessage = "El campo tiene como máximo {1} caracteres.")]
         public int Monto { get; set; }

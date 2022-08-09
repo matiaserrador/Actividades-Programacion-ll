@@ -10,6 +10,7 @@ namespace Sanguche.Data
 {
     public class BDContext : DbContext 
     {
+        //Base de dato
         public DbSet<Sanguchaso> Sanguchasos { get; set; }
 
         

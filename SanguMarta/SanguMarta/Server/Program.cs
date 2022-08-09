@@ -8,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+//La conexión
 var conn = builder.Configuration.GetConnectionString("conn");
 builder.Services.AddDbContext<DbContext>(opciones =>
     opciones.UseSqlServer(conn));
