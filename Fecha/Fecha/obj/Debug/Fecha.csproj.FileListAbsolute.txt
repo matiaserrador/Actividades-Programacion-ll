@@ -1,0 +1,11 @@
+C:\Users\Matias\Documents\repositorio 2do\Fecha\Fecha\bin\Debug\Fecha.exe.config
+C:\Users\Matias\Documents\repositorio 2do\Fecha\Fecha\bin\Debug\Fecha.exe
+C:\Users\Matias\Documents\repositorio 2do\Fecha\Fecha\bin\Debug\Fecha.pdb
+C:\Users\Matias\Documents\repositorio 2do\Fecha\Fecha\obj\Debug\Fecha.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\Fecha\Fecha\obj\Debug\Fecha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias\Documents\repositorio 2do\Fecha\Fecha\obj\Debug\Fecha.Form1.resources
+C:\Users\Matias\Documents\repositorio 2do\Fecha\Fecha\obj\Debug\Fecha.Properties.Resources.resources
+C:\Users\Matias\Documents\repositorio 2do\Fecha\Fecha\obj\Debug\Fecha.csproj.GenerateResource.cache
+C:\Users\Matias\Documents\repositorio 2do\Fecha\Fecha\obj\Debug\Fecha.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\Fecha\Fecha\obj\Debug\Fecha.exe
+C:\Users\Matias\Documents\repositorio 2do\Fecha\Fecha\obj\Debug\Fecha.pdb
