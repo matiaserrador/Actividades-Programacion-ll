@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1hbpRylg2Rf4udz5TDPCJmrN1nidf20MxZ1S6ytyKVNgFtljb0GV9/hR5xmbIWtbZ/1OASkPsuBQp+j42a6VKw==",
+  "dgSpecHash": "3RJ+LGph7mdvULwlO+3OaIb19f7o187XTdSK4n10ZRlePliQfgaTxhALDYhBqmB8BnJi/ANdzCL/UBStBvbkrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matias\\Documents\\repositorio 2do\\SanguMarta\\Sanguches\\Sanguche.csproj",
+  "projectFilePath": "C:\\Users\\Matias\\Documents\\repositorio 2do\\SanguMarta\\Sanguches\\Sanguches.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matias\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Matias\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

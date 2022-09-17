@@ -2287,9 +2287,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matias\\Documents\\repositorio 2do\\SanguMarta\\Sanguches\\Sanguche.csproj",
-      "projectName": "Sanguche",
-      "projectPath": "C:\\Users\\Matias\\Documents\\repositorio 2do\\SanguMarta\\Sanguches\\Sanguche.csproj",
+      "projectUniqueName": "C:\\Users\\Matias\\Documents\\repositorio 2do\\SanguMarta\\Sanguches\\Sanguches.Database.csproj",
+      "projectName": "Sanguches.Database",
+      "projectPath": "C:\\Users\\Matias\\Documents\\repositorio 2do\\SanguMarta\\Sanguches\\Sanguches.Database.csproj",
       "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Matias\\Documents\\repositorio 2do\\SanguMarta\\Sanguches\\obj\\",
       "projectStyle": "PackageReference",

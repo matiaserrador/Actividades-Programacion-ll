@@ -1,0 +1,14 @@
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\obj\Debug\net6.0\Sandwich.Database.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\obj\Debug\net6.0\Sandwich.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\obj\Debug\net6.0\Sandwich.Database.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\obj\Debug\net6.0\Sandwich.Database.AssemblyInfo.cs
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\obj\Debug\net6.0\Sandwich.Database.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\bin\Debug\net6.0\Sandwich.Database.deps.json
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\bin\Debug\net6.0\Sandwich.Database.runtimeconfig.json
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\bin\Debug\net6.0\Sandwich.Database.dll
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\bin\Debug\net6.0\Sandwich.Database.pdb
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\obj\Debug\net6.0\Sandwich.Database.dll
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\obj\Debug\net6.0\refint\Sandwich.Database.dll
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\obj\Debug\net6.0\Sandwich.Database.pdb
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\obj\Debug\net6.0\Sandwich.Database.genruntimeconfig.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sandwich.Database\obj\Debug\net6.0\ref\Sandwich.Database.dll

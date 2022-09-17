@@ -1,0 +1,5 @@
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguches.Database.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguches.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguches.Database.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguches.Database.AssemblyInfo.cs
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\Sanguches\obj\Debug\net6.0\Sanguches.Database.csproj.CoreCompileInputs.cache

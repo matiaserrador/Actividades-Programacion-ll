@@ -10,3 +10,8 @@ C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug
 C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\refint\SanguMarta.Shared.dll
 C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\SanguMarta.Shared.pdb
 C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\ref\SanguMarta.Shared.dll
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\bin\Debug\net6.0\Sandwich.Database.dll
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\bin\Debug\net6.0\Sandwich.Database.pdb
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\SanguMarta.Shared.csproj.CopyComplete
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\bin\Debug\net6.0\SanguMarta.Shared.runtimeconfig.json
+C:\Users\Matias\Documents\repositorio 2do\SanguMarta\SanguMarta\Shared\obj\Debug\net6.0\SanguMarta.Shared.genruntimeconfig.cache
