@@ -1,0 +1,8 @@
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory\Dynamic Memory\bin\Debug\Dynamic Memory.exe.config
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory\Dynamic Memory\bin\Debug\Dynamic Memory.exe
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory\Dynamic Memory\bin\Debug\Dynamic Memory.pdb
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory\Dynamic Memory\obj\Debug\Dynamic Memory.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory\Dynamic Memory\obj\Debug\Dynamic Memory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory\Dynamic Memory\obj\Debug\Dynamic Memory.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory\Dynamic Memory\obj\Debug\Dynamic Memory.exe
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory\Dynamic Memory\obj\Debug\Dynamic Memory.pdb
