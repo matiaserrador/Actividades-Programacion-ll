@@ -1,0 +1,8 @@
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory v3 (ArrayList)\Dynamic Memory v3 (ArrayList)\bin\Debug\Dynamic Memory v3 (ArrayList).exe.config
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory v3 (ArrayList)\Dynamic Memory v3 (ArrayList)\bin\Debug\Dynamic Memory v3 (ArrayList).exe
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory v3 (ArrayList)\Dynamic Memory v3 (ArrayList)\bin\Debug\Dynamic Memory v3 (ArrayList).pdb
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory v3 (ArrayList)\Dynamic Memory v3 (ArrayList)\obj\Debug\Dynamic Memory v3 (ArrayList).csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory v3 (ArrayList)\Dynamic Memory v3 (ArrayList)\obj\Debug\Dynamic Memory v3 (ArrayList).csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory v3 (ArrayList)\Dynamic Memory v3 (ArrayList)\obj\Debug\Dynamic Memory v3 (ArrayList).csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory v3 (ArrayList)\Dynamic Memory v3 (ArrayList)\obj\Debug\Dynamic Memory v3 (ArrayList).exe
+C:\Users\Matias\Documents\repositorio 2do\Dynamic Memory v3 (ArrayList)\Dynamic Memory v3 (ArrayList)\obj\Debug\Dynamic Memory v3 (ArrayList).pdb
