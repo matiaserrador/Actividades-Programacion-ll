@@ -111,7 +111,7 @@ namespace SanguMarta.Server.Controllers.ControllersSanguches
             {
                 return new StatusCodeResult(Microsoft.AspNetCore.Http.StatusCodes.Status500InternalServerError);
             }
-
+            ///All we need is just test it. if it works, i will be the happiest man in the entire world.
         }
         #endregion
     }
