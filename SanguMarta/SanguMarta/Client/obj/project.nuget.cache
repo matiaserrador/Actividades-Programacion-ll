@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YAE2qD3rlnoX0T+lSecfexY6KXDe9XCMw0F/q6WtZVLTnEYJYOD9JDZhJ5TFsMuWINlWBNB9eYYed5f2tfQrEQ==",
+  "dgSpecHash": "+K8YXWEzACnmt55coQJOP0/A0765VRzIRYvf3jJSaxMpNNisJpDggHCbOua9WyvEqRgyqnfVhmeawYKaUf0exQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Matias\\Documents\\repositorio 2do\\SanguMarta\\SanguMarta\\Client\\SanguMarta.Client.csproj",
   "expectedPackageFiles": [
@@ -64,7 +64,7 @@
     "C:\\Users\\Matias\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Matias\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
     "C:\\Users\\Matias\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\Matias\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.7.nupkg.sha512"
+    "C:\\Users\\Matias\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.10.nupkg.sha512"
   ],
   "logs": []
 }
