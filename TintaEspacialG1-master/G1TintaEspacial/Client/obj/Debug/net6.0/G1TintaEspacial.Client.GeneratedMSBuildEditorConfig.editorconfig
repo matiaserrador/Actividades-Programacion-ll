@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = G1TintaEspacial.Client
+build_property.RootNamespace = G1TintaEspacial.Client
+build_property.ProjectDir = C:\Users\Matias\Documents\repositorio 2do\TintaEspacialG1-master\G1TintaEspacial\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Matias\Documents\repositorio 2do\TintaEspacialG1-master\G1TintaEspacial\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/NFTIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTkZUSW5kaXZpZHVhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/NFTs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTkZUcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/BUSCAR.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQlVTQ0FSLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-zzj1i8bqtr
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/Estudios.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0dWRpb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9dfgmgxaxp
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-awmqz2dbtu
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/Primera.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpbWVyYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-w9mrfo1x8r
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/RegExitoso.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnRXhpdG9zby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-w8l9sdca3p
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/Registrobasico.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9iYXNpY28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4n93ohww0w
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/Std1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RkMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-s7bqs0fz1c
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/Tatuadores.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGF0dWFkb3Jlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ttuqqznoc9
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Pages/Ttt1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHR0MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-fgmudc9a5e
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ggk6roaxxh
+
+[C:/Users/Matias/Documents/repositorio 2do/TintaEspacialG1-master/G1TintaEspacial/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ab9r9k63ne

@@ -1,0 +1,7 @@
+C:\Users\Matias\Documents\repositorio 2do\TintaEspacialG1-master\JwtWebApi\obj\Debug\net6.0\JwtWebApi.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\TintaEspacialG1-master\JwtWebApi\obj\Debug\net6.0\JwtWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Documents\repositorio 2do\TintaEspacialG1-master\JwtWebApi\obj\Debug\net6.0\JwtWebApi.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\TintaEspacialG1-master\JwtWebApi\obj\Debug\net6.0\JwtWebApi.AssemblyInfo.cs
+C:\Users\Matias\Documents\repositorio 2do\TintaEspacialG1-master\JwtWebApi\obj\Debug\net6.0\JwtWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\TintaEspacialG1-master\JwtWebApi\obj\Debug\net6.0\JwtWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Matias\Documents\repositorio 2do\TintaEspacialG1-master\JwtWebApi\obj\Debug\net6.0\JwtWebApi.MvcApplicationPartsAssemblyInfo.cache

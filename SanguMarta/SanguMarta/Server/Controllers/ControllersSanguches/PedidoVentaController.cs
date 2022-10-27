@@ -15,7 +15,7 @@ namespace SanguMarta.Server.Controllers.ControllersSanguches
             this.context = context;
         }
         #region Controlador GET
-        /// Nuevo-.-
+        /// Nuevo-.- TukiDuki
         /// GET .- Te tira todo lo de la LISTA.
         [HttpGet]
         public async Task<ActionResult<List<PedidoVenta>>> Get() ///Llamo a la BDD PedidoVenta
