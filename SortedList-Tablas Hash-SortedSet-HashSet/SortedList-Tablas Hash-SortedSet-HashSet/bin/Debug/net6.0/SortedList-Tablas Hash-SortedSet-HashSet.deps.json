@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SortedList-Tablas Hash-SortedSet-HashSet/1.0.0": {
+        "runtime": {
+          "SortedList-Tablas Hash-SortedSet-HashSet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortedList-Tablas Hash-SortedSet-HashSet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

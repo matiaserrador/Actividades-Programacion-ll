@@ -1,0 +1,15 @@
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\bin\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.exe
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\bin\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.deps.json
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\bin\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.runtimeconfig.json
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\bin\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.dll
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\bin\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.pdb
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\obj\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\obj\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\obj\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\obj\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.AssemblyInfo.cs
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\obj\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\obj\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.dll
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\obj\Debug\net6.0\refint\SortedList-Tablas Hash-SortedSet-HashSet.dll
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\obj\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.pdb
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\obj\Debug\net6.0\SortedList-Tablas Hash-SortedSet-HashSet.genruntimeconfig.cache
+C:\Users\Matias\Documents\repositorio 2do\SortedList-Tablas Hash-SortedSet-HashSet\SortedList-Tablas Hash-SortedSet-HashSet\obj\Debug\net6.0\ref\SortedList-Tablas Hash-SortedSet-HashSet.dll
