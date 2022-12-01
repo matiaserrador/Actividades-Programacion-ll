@@ -1,0 +1,9 @@
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaDatos\bin\Debug\Entidades.dll
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaDatos\bin\Debug\Entidades.pdb
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaDatos\obj\Debug\CapaDatos.pdb

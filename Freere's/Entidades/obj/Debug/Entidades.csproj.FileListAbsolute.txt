@@ -1,0 +1,6 @@
+C:\Users\Matias\Documents\repositorio 2do\Freere's\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Documents\repositorio 2do\Freere's\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Documents\repositorio 2do\Freere's\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\Freere's\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\Freere's\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Documents\repositorio 2do\Freere's\Entidades\obj\Debug\Entidades.pdb

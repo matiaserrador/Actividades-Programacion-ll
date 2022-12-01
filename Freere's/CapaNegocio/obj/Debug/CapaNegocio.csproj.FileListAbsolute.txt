@@ -1,0 +1,11 @@
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Matias\Documents\repositorio 2do\Freere's\CapaNegocio\obj\Debug\CapaNegocio.pdb
